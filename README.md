@@ -89,5 +89,6 @@ Clone the repository:
 git clone https://github.com/waibernavaible/Xphishity.git
 cd Xphishity
 pip install flask flask-socketio requests beautifulsoup4
-python app.py
+python xphishity.py
+
 
